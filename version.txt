@@ -1,0 +1,2 @@
+4.0.1
+https://github.com/javadfaiz-glitch/gadget-firmware-216/releases/latest/download/GadgetR4-2.16.ino.bin
